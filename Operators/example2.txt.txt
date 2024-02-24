@@ -1,0 +1,80 @@
+As per my knowledge there are 5 types of operators .
+They are :
+
+1.Arithematic Operators
+2.Assignment Operators
+3.Logical Operators
+4.Comparision Operators
+5.Unary Operators
+
+1.Arithematic Operators :
+-------------------------
+
+a.  10+20 => 30  (Addition)
+b.  20-10 => 10  (Subtraction)
+c.  10*2  => 20  (Multiplication)
+d.  4 / 2 => 2   (Division)
+e.  4 % 3 => 1   (Modulus or remainder)
+f.  5**2  => 25  (Exponentiation or power of )
+
+2.Assignment Operators :
+------------------------
+
+let x=2  ==> value of 2 is assigned or stored in variables x 
+
+x+=4 ==> 6
+x-=2 ==> 4
+x*=3 ==> 12
+x/=2 ==> 6
+x%=4 ==> 2
+x**=4 ==> 16
+
+3.Logical Operators :
+---------------------
+
+true &&  false ==> false
+
+true || false  ==> true
+
+!true ==> false
+
+4.Comaprision Operators :
+-------------------------
+
+let x = 5 ;
+let y = 6
+
+x > y ==> false
+x < y ==> true
+x >= y  ==> false
+x <= y ==> true
+
+x==y ==> false  comapres only value 
+x ===y ==> false  compares value and its datatype
+
+x!=y ==> true
+
+5.Unary Operators :
+-------------------
+a.Unary plus (+) : to convert into Number  --> let x="5" ; let y=+x ==> y=5
+
+b.typeof ==> determines the datatype  
+ex: typeof(5) ==> Number
+
+c.void or void(expression) ==> to explicitly give undefined 
+
+ex: void(0) or void{}, void[]
+
+d. delete ==> delete a property or value 
+
+let user ={
+name:'sreekanth',
+age :20
+}
+
+delete user.age ==> user ={
+name:'sreekanth'
+}
+
+
+

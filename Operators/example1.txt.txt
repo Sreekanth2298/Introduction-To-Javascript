@@ -1,0 +1,5 @@
+As we have learnt that 'Data' is the crucial part for any web application .
+
+To perform any operations and manipulate the data we require operators . So in short we can say that operators plays an important role in any programming .
+
+Operators are used to control the flow of execution in program . as we know the importance of varibles in programming , to collect the data and to store data into variables requires assignment operators .

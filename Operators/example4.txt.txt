@@ -1,0 +1,10 @@
+It is similar to what we studied in our school like BODMAS in mathematics .
+
+precedence and associativity ==>  which determine the order in which operations are performed when multiple operators are used in an expression.
+
+Precedence: Precedence determines the order of evaluation when multiple operators are present in an expression. Operators with higher precedence are evaluated first.
+
+Associativity: Associativity determines the grouping of operands when multiple operators with the same precedence appear in an expression.
+
+It is important to understand about precedence and associativity to avoid unexpected results while evaluating an expression .
+
