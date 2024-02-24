@@ -1,0 +1,20 @@
+Differences between Javascript and HTML :
+-----------------------------------------
+
+	HTML 														Javascript
+
+
+1.We can create static web page									1.We can create dynamic web page
+
+2.It defines structure of web page								2.It adds interactivity to the web page
+
+3.Content is rendered from server								3.Javascript code is executed in client's browser
+
+4.Cross-browser compatible									4.Not Cross-browser compatible
+
+
+
+In overall, we use html to structure the content in web page and add interactivity using javascript.
+
+Lets suppose i have a login form where user can enter his name and password and a login button to click .
+In the above example we structure the input elements and button using html and validate those entered data to give access using javascript .

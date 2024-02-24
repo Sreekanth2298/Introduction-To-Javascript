@@ -1,0 +1,17 @@
+For example 
+
+let a =24 ;
+
+let b = a>18 ;
+
+If we look at the above example we are able to see only that certain operations are being done on variables , but we are not sure why we have created these variables and what is the significance of these operations .
+
+let me reframe the same example 
+
+let userCurrentAge =24;
+let isUserMajor = userCurrentAge > 18 ;
+
+
+from the above example we can conclude that above code is written to check whether current user is major or not my taking user's age as input . so it provides a functional meaning if we use
+descriptive names to variables .
+ It adds value to the code

@@ -1,0 +1,10 @@
+.Javascript is a programming language that adds interactivity and dynamic behaviour to web pages.
+
+Key roles of javascript in web development are :
+
+1.Client-side scripting
+2.DOM Manipulation
+3.Event Handling
+4.Aysnchronous Programming
+5.Browser compatibiltiy
+6.Supporting frameworks and libraries

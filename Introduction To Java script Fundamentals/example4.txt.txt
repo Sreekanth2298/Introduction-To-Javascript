@@ -1,0 +1,9 @@
+. Generally we declare variables to store data which can be used throught the program 
+.For suppose if you store a value in a variable , you have a requirement of using the same value at multiple places then it would be easier if we have stored the value in a variable
+.let suppose if you are caluculating a persons tax based on his age , currently the persons age is 24 and u have been using the currentAge in the program in multiple places  after 2 years
+ if you have to caluculate tax you have to manually change age of the person in multiple places to avoid this manual work if we store them in variables then it will easy to change according
+to requirement
+
+Declaring a variable using let keyword :
+
+let currentAge = 24 ;

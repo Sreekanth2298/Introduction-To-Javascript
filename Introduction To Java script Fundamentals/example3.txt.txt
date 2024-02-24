@@ -1,0 +1,44 @@
+Primitive datatypes in javascript :
+-----------------------------------
+
+1.String
+2.Number
+3.BigInt
+4.Boolean
+5.Null
+6.Undefined
+7.Symbol
+
+
+1.String :
+----------
+
+anything which is in double or single quotes is called a string . 
+
+ex : "pwSkills" , 'javascript'
+
+2.Number :
+---------
+any type of integer upto a certain range comes under Number datatype.
+
+ex : 23 , 24.54
+
+3.BigInt :
+----------
+Numbers which crosses a certain range may loose precision , so for number above 2^53 -1 and numbers below -2^53-1
+
+4.Boolean :
+----------
+
+either true or false
+
+ex: let age = 24;
+    let isMajor = age >18 ==> true
+
+5.Undefined :
+-------------
+It is like nothing but not zero
+
+ex : let myNumber;
+
+In this case the value of myNumber is undefined

@@ -1,0 +1,19 @@
+Comments in Java script :
+-------------------------
+
+. Generally we use comments for code explanation or purpose 
+
+for example 
+
+
+//i am collecting age of the user in currentAge variable      ==> single line comments
+let currentAge = 24 ;
+
+/*Here i am checking whether the user is major or not if the currentage of user is more than 18 years then consider him as major otherwise as minor */   ==> multi line comments
+
+let isMajor = currentAge >18 ;
+
+
+.Comments can be used to surpass certain lines without executing them , like i have written certain piece of code and it is not working so for now i will comment that particular code to test 
+other things
+'Comments can act as a remainder in future
